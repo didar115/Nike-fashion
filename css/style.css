@@ -1,0 +1,55 @@
+.nike-text-color {
+	color: #fa804c;
+	font-family: "Roboto", sans-serif;
+}
+
+.infinity-text-color {
+	color: #363958;
+	font-family: "Roboto", sans-serif;
+}
+
+.landing-bg-color {
+	background-color: #fff9f4;
+}
+.casual-font {
+	color: #363958;
+	font-size: 48px;
+	font-family: "Roboto", sans-serif;
+}
+.custom-card {
+	width: auto;
+	height: 550px;
+	background-color: #ffffff;
+	border-radius: 15px;
+}
+
+.bg-box {
+	height: 327px;
+	margin: 10px;
+	width: auto;
+	border-radius: 15px;
+	background-color: #f1f1f1;
+}
+
+.card-title-color {
+	color: #363958;
+	font-size: 24px;
+}
+.price-tag-color {
+	color: #fa804c;
+	font-size: 36px;
+}
+.custom-button {
+	height: 60px;
+	width: 170px;
+	color: white;
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	border: 0;
+	border-radius: 12px;
+	background-color: #3d4ff3;
+}
+
+@media only screen and (min-width: 769px) {
+    .img-size {width:526px;height:470px;}
+}
